@@ -11,6 +11,8 @@ import android.widget.LinearLayout;
 
 /**
  * Created by Admin on 12/11/2015.
+
+Costome adaptor for displaying the images in the view pager
  */
 public class customeswipeadaptor extends PagerAdapter {
     private  int []  image_resources = {R.drawable.images1,R.drawable.image2,R.drawable.images3,R.drawable.images4,R.drawable.images6};
